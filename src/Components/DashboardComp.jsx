@@ -17,8 +17,7 @@ export default function DashboardComp() {
       <H3>
         It's a dashboard page!!!
         <span>
-          <Link to="/dashboard/setting">
-            {" "}
+          <Link to="/dashboard/settings">
             <img
               src={setting}
               alt="setting"
